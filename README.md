@@ -1,6 +1,7 @@
 # Real-Time AI Monitoring during Online Exams 🛡️
 
-*[Keep your existing two screenshots right here!]*
+<img width="806" height="973" alt="Screenshot 2026-02-26 103046" src="https://github.com/user-attachments/assets/1b0d19ca-5144-4f53-b674-7398e5a8d4d5" />
+
 
 An automated, multi-modal proctoring and security system built with Python. This lightweight application ensures exam integrity by combining computer vision, acoustic speech isolation, and OS-level environment lockdown without requiring cloud-compute or heavy GPUs.
 
